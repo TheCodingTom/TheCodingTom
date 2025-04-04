@@ -1,7 +1,7 @@
-## Hi there 👋
+## Ciao! I'm Tom 👋
 
 <!--
-**TheCodingTom/TheCodingTom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Web Developer passionate about JavaScript and React, bringing creativity to life through code. With 6 years of experience in localisation and marketing, I blend technical skills with a deep understanding of user engagement.
 
 Here are some ideas to get you started:
 
