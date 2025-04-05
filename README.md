@@ -40,4 +40,4 @@ Working on a collaborative project to build a **language learning app using AI**
 
 ---
 
-Always happy to connect and talk code, design, or new ideas.
+Always happy to connect and talk code, design, or new ideas 🤓
