@@ -24,15 +24,13 @@
 ### 🌍 [Country Explorer](https://github.com/TheCodingTom/country-explorer)  
 A dynamic and interactive web app to explore detailed information about countries worldwide.  
 Built as a **single-page React application**, it allows users to search for countries, learn about them, and test their geography knowledge with a **10-question world capitals quiz**.  
-This was my **3rd project at Code Academy Berlin**, completed over 4 weeks.  
 🔗 [Live Demo](https://country-explorer32.netlify.app/)
 
 
 ---
 
 ### 🛍️ [KiezSwap](https://github.com/TheCodingTom/KiezSwap)  
-A **MERN web app** and community marketplace built in 4–5 weeks as my **4th project at Code Academy Berlin**.  
-KiezSwap allows Berlin locals to **swap or give away** items within their neighborhood (*Kiez*), encouraging sustainability and community connection.  
+A **MERN web app** and community marketplace that allows Berlin locals to **swap or give away** items within their neighborhood (*Kiez*), encouraging sustainability and community connection.  
 🔗 [Live Demo](https://kiezswap.vercel.app/)
 
 ---
