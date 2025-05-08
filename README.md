@@ -3,7 +3,7 @@
 ## About Me  
 - 🎨 Frontend Developer passionate about **JavaScript**, **React**, and **UX**, bringing creativity to life through code  
 - 💼 6+ years of experience in localisation and marketing, blending technical skills with user-centered thinking  
-- 🎓 Soon to be a graduate of [Code Academy Berlin](https://github.com/CodeAcademyBerlin)  
+- 🎓 Graduate of [Code Academy Berlin](https://github.com/CodeAcademyBerlin)  
 - 💬 I speak **Italian**, **English**, **German**, and a little bit of **Spanish**  
 - 📍 Currently based in Berlin 
 
@@ -56,8 +56,8 @@ A **MERN web app** and community marketplace that allows Berlin locals to **swap
 
 ---
 
-### 🤝 Ongoing Project  
-Working on a collaborative project to build a **language learning app using AI**, with a focus on creativity, accessibility, and real-world usability.
+### 🤝 [DeutschInContext](https://github.com/dimab25/german-app)    
+Collaborative project to build a **language learning app using AI**, with a focus on creativity, accessibility, and real-world usability.
 
 ---
 
