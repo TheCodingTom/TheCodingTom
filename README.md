@@ -1,10 +1,10 @@
 # Ciao, I'm Tom! 👋
 
 ## About Me  
-👨‍💻 Frontend Developer passionate about **JavaScript**, **React**, and **UX**, with a background in localisation and marketing
-🎓 Graduate of [Code Academy Berlin](https://github.com/CodeAcademyBerlin)  
-💬 I speak **Italian**, **English**, **German**, and a little bit of **Spanish**  
-📍 Currently based in Berlin 
+- 👨‍💻 Frontend Developer passionate about **JavaScript**, **React**, and **UX**, with a background in localisation and marketing
+- 🎓 Graduate of [Code Academy Berlin](https://github.com/CodeAcademyBerlin)
+- 💬 I speak **Italian**, **English**, **German**, and a little bit of **Spanish**
+- 📍 Currently based in Berlin 
 
 ---
 ## 🛠️ Tech Stack
