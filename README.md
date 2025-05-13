@@ -39,4 +39,4 @@
 
 ---
 
-Always happy to connect and talk code, design, or new ideas 🤓 Connect with me on ![Linkedin](https://www.linkedin.com/in/thomas-dastolto-web-dev/)!
+Always happy to connect and talk code, design, or new ideas 🤓 Connect with me on [Linkedin](https://www.linkedin.com/in/thomas-dastolto-web-dev/)!
