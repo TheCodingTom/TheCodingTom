@@ -7,7 +7,7 @@
 - 📍 Currently based in Berlin 
 
 ---
-## 🛠️ Tech Stack
+## Languages and Tools
 
 **Languages**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
@@ -36,6 +36,7 @@
 **Tools**  
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square)
+![Contentful](https://img.shields.io/badge/Contentful-2478CC?logo=contentful&logoColor=white&style=flat-square)
 
 ---
 
